@@ -1,0 +1,1888 @@
+Heading,Content
+1\. Lecture Information,"
+| Lecture Topics | Lecture Duration: 2.30 Hours |
+| - | - |
+| 1) Introduction to pumps types | Parts Demonstration: 30 Minutes |
+| 2) Assembly parts of pumps | |
+| 3) Pump operation | |
+| 4) Preventive maintenance of pumps | |
+| 5) Troubleshooting of pumps | |
+| 6) Selection criteria of pumps | |
+
+Liquids are typically moved by pumps. These use work to increase the mechanical energy of a fluid, which in turn can increase the flow rate (velocity), pressure, or elevation of the fluid.
+
+"
+Types of Pumps:,"
+There are two main categories of pumps -- positive displacement and centrifugal. The choice is based on the liquid to be pumped and the desired head and capacity.
+
+Centrifugal pumps are probably most common in industrial applications. They may be built in a very large number of materials. Capacity ranges up to 6000 gpm are common, as are heads to 600 feet, all without special drivers. Performance drops off significantly when handling viscous fluids or when air or vapor are present in the liquid.
+
+For a given head and capacity, centrifugal pumps tend to be smaller and lighter than other types, hence costs are lower.
+
+Positive Displacement Pumps:
+
+Positive displacement pumps operate by trapping a fixed volume of liquid then releasing it to a higher pressure by means of a piston or rotary gear.
+
+Reciprocating Pumps:
+
+Reciprocating pumps use a piston, plunger, or diaphragm to raise the pressure of a liquid. The pumping chambers are surrounded by one-way valves so that liquid can only move in from the low pressure side and out from the high pressure side. They are classed as ""single acting"" if fluid
+
+<figure>
+
+![](figures/0)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""2"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+is moved only on the downstroke, or ""double acting"" if fluid is moved by both sides of the piston.
+
+<figure>
+
+![](figures/1)
+
+<!-- FigureContent=""DELIVERY PIPE DELIVERY VALVE ha CYLINDER PISTON CONNECTING CRANK ROD /(1) + A 1C- PISTON ROD hs SUCTION VALVE 0 - SUCTION PIPE SUMP LEVEL mechanicalbuzz"" -->
+
+<figcaption>
+
+Single Acting Pumps
+
+</figcaption>
+
+</figure>
+
+
+<figure>
+
+![](figures/2)
+
+<!-- FigureContent=""Delivery pipes 1 D1 D2 Piston rod 1 S S2 Piston Cylinder Sump level Suction pipes mechanicalbuzz"" -->
+
+</figure>
+
+
+Double Acting Pumps
+
+<figure>
+
+![](figures/3)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+<figcaption>
+
+Module 1: Pumps, Induction Motors and Valves
+
+</figcaption>
+
+</figure>
+
+ :unselected:
+<!-- PageNumber=""3"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+Rotary Pumps,"
+Typically, rotary pumps are used in high head, low flow applications. They are good for high viscosity and low vapor pressure fluids. The fluid pumped must be ""lubricating""; solids cannot be present. A key difference from centrifugal pumps is that discharge pressure variation has little effect on capacity.
+
+"
+2\. Centrifugal Pump,"
+Centrifugal pumps are used to transport fluids by conversion of rotational kinetic energy to the hydrodynamic energy of the fluid flow. The rotational energy typically comes from an engine or electric motor. The fluid enters the pump impeller along or near to the rotating axis and is accelerated by the impeller, flowing radially outward.
+
+<figure>
+
+![](figures/4)
+
+<!-- FigureContent=""DISCHARGE IMPELLER EYE SPX SUCTION IMPELLER VOLUTE Figure 1 Centrifugal Pump"" -->
+
+</figure>
+
+
+"
+1.1. Designation,"
+KWP K 100
+
+250
+
+Impeller forms:
+
+K = channel-type impeller F = free-flow impeller (special) O = open multi-vane impeller
+
+Types series
+
+Impeller form
+
+Discharge nozzle DN-
+
+Nominal impeller dia. in mm
+
+<figure>
+
+![](figures/5)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+:selected: :unselected: :unselected:
+<!-- PageNumber=""4"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+1.2. Design details,"
+Horizontal, non-self-priming, radially split volute casing pump in back pull-out design, with impeller adapted to meet application requirements, single-flow, single-stage (other impeller forms and pump sizes on request).
+
+"
+1.2.1. Pump casing,"
+Radially split, consisting of pump casing with integrally cast suction and discharge cover. The discharge cover includes an integrally cast stuffing box housing; the pump casing is fitted with a wear plate.
+
+<figure>
+
+![](figures/6)
+
+<!-- FigureContent=""Shaft Discharge Discharge Casing Impeller Impeller Suction Suction ·Eye Shaft Casing Impeller vane"" -->
+
+<figcaption>
+
+Figure 2 Centrifugal pump parts
+
+</figcaption>
+
+</figure>
+
+
+"
+1.2.2. Impeller form,"
+"
+K-impeller:,"
+Closed channel-type impeller for contaminated, solids-laden, non- gaseous liquids not liable to plait. As closed multi-vane impeller for uncontaminated or slightly contaminated liquids containing no or very little gas.
+
+<figure>
+
+![](figures/7)
+
+</figure>
+
+
+"
+F-impeller (special):,"
+Open free-flow impeller for liquids containing large solids and matter liable to plait, as well as liquids with entrapped air and gas.
+
+<figure>
+
+![](figures/8)
+
+</figure>
+
+
+<figure>
+
+![](figures/9)
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/10)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageNumber=""5"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+O-impeller:,"
+Open multi-vane impeller for uncontaminated or slightly contaminated liquids as well as liquids liable to form deposits and bunch, with little entrapped gas.
+
+<figure>
+
+![](figures/11)
+
+</figure>
+
+
+1.3. Shaft seal
+
+A mechanical seal is simply a method of containing fluid within a vessel (typically pumps, mixers, etc.) where a rotating shaft passes through a stationary housing or occasionally, where the housing rotates around the shaft. When sealing a centrifugal pump, the challenge is to allow a rotating shaft to enter the 'wet' area of the pump, without allowing large volumes of pressurized fluid to escape.
+
+"
+Main elements of a mechanical seals,"
+All mechanical seals are constructed with the following basic sets of parts:
+
+· A set of (very flat) machined and lapped primary sealing faces: The very close (near) contact between these two flat mating surfaces, which are perpendicular to the shaft, minimizes leakage. Dissimilar materials are usually used for the faces, one hard and one softer, in order to prevent adhesion of the two faces. One of the faces is usually a non-galling material such as carbon-graphite. The other surface is usually a relatively hard material like silicon-carbide, or ceramic. However, when handling abrasive, two hard surfaces are normally used:
+
+o One face is held stationary in a housing
+ :unselected:
+· A set of secondary static seals, typically O-rings, wedges and/or V-rings. o The other face is fixed to, and rotates with the shaft.
+ :unselected:
+o One static seal, seals stationary component(s) to the housing
+
+o The other seal, seals the rotating component(s) to the shaft (it normally moves axially on the shaft or shaft sleeve)
+
+· A spring member to maintain face contact, such as a single spring, multiple springs or metal bellows.
+
+<figure>
+
+![](figures/12)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+:unselected: :unselected:
+<!-- PageNumber=""6"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+· Other mechanical seal hardware, which includes shaft sleeves, gland rings, collars, compression rings, and/or pins.
+
+Mechanical seals require clean water, or other compatible liquid, for the lubrication of the seal faces. The faces in a typical mechanical seal are lubricated with a boundary layer of gas or liquid between the faces. Lubrication can be provided from the pumped liquid itself or from an external source, depending on system requirements.
+
+<figure>
+
+![](figures/13)
+
+<!-- FigureContent=""Coil Spring Insert Insert Mounting Shaft Packing Gland Ring Seal Ring Gland Gasket"" -->
+
+</figure>
+
+
+Figure: Typical Shaft Seal.
+
+"
+1.3.1. Priming the pump and checks to be carried out,"
+The pump and suction lift line must be vented and primed with the fluid pumped before start-up. The isolating valve in the suction lift line must be fully open. All auxiliary connections provided on your pump (e.g. flushing liquid, sealing liquid, cooling liquid, etc.) must be opened fully and the
+
+<figure>
+
+![](figures/14)
+
+<!-- FigureContent=""ALJAZARI - ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""7"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+unimpeded flow of the fluid through these lines must line (if applicable to your installation) and close the vacuum-tight isolating valve.
+
+"
+1.3.2. Checking the direction of rotation,"
+The direction of rotation must correspond to the arrow on the pump. This can be checked by switching on the pump for a short instant and switching it off again immediately. Mount the coupling guard.
+
+"
+1.4. Startup procedure,"
+"
+1.4.1. Switching on,"
+Always make sure that the isolating valve in the discharge line is closed when the pump is switched on. Only after the pump has attained full operating speed should the discharge valve be opened gradually and the operating point conditions adjusted by means of this valve.
+
+Caution:
+
+After the operating temperature has been attained, and/or in the event of leakage, tighten the lantern/casing connecting bolts after switching off the pumping set.
+
+"
+1.4.2. Switching off,"
+Close isolating valve in discharge line.
+
+If a non-return valve or check valve has been incorporated in the discharge line, the isolating valve can remain open in so far as there is a back pressure present in the line.
+
+Switch off driver. Observe the pumping set running down smoothly and quietly to a standstill. In the event of a prolonged shut-down, the isolating valve in the suction lift line should be closed. Close the auxiliary connections, and turn off the cooling liquid supply (if applicable to your installation) after the pump has cooled down. The shaft seal of pumps which are connected to a supply vessel under vacuum must be fed with sealing liquid even when the pump is switched off. In the event of frost and/or of prolonged shut-downs, the pump and the cooling compartments (if applicable) must be drained or otherwise protected against freezing.
+
+<figure>
+
+![](figures/15)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""8"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+1.5. Maintenance and lubrication 1.5.1. Supervision of operation,"
+The pump should run quietly and free from vibration at all times. The pump must never be allowed to run dry. Avoid any prolonged running against a closed discharge valve. The bearing temperature may be allowed to attain up to 50℃ above room temperature, but should not exceed + 90℃.
+
+Make sure the oil level is adequate. The isolating vales in the auxiliary feed lines must always remain open while the pump is running.
+
+The soft-packed stuffing box (if your pump is fitted with one) should drip slightly during operation. The stuffing box gland should only be tightened lightly.
+
+Any standby pumps in the pumping installation should be operated once a week for a short instant., by switching on and switching off again so as to maintain them in good condition for instant start-up in an emergency. The correct functioning of the auxiliary connections should be kept under observation. When signs of wear become apparent on the flexible coupling elements in the course of time, these elements should be replaced by new ones in good time.
+
+"
+1.5.2. Lubrication and lubricant changes,"
+"
+Lubrication,"
+The antifriction bearings are greased or oil-lubricated; for required lubricant fills.
+
+"
+Grease changes,"
+The initial fill (grease packing) of grease-lubricated anti- friction bearings should last for 3000 operating hours approx., but should be renewed at least once every 2 years or after every 3000 hours of operation.
+
+Grease quality:
+
+Use a good quality ball and roller bearing grease with a lithium soap base, free of resin and acid, not liable to crumble, and possessing good rust-preventive characteristics. The grease should have a penetration number situated between 2 and 3, corresponding to a worked penetration situated between 220 and 295mm/10. Its drop point should not be less than 175℃.
+
+"
+Oil changes,"
+The first oil change should be carried out after 300 hours of operation approx., and subsequent oil changes once every 3000 hours of operation approx.
+
+Procedure:
+
+<figure>
+
+![](figures/16)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""9"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+Unscrew oil drain plug beneath the constant level oiler (or beneath the oil level indicator) and drain the old oil. When the bearing bracket is empty, replace the oil drain plug and fill in fresh oil.
+
+1.6. Fault
+
+| Fault | Code number Cause - Remedy |
+| - | - |
+| Pump delivers insufficient liquid | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11, 28 |
+| Driver is overloaded | 12, 13, 14, 15, 23, 27, 28 |
+| Excessively high pump discharge pressure | 15 |
+| Excessively high bearing temperature | 22, 23, 25, 26, 31 |
+| Leakage at the pump | 29 |
+| Excessive leakage at shaft seal | 17, 18, 20, 21, 22, 23 |
+| The pump runs rough | 3, 6, 11, 12, 22, 23, 30, 31, 32 |
+| Excessive temperature rise inside the pump | 3, 6, 32 |
+
+"
+Cause - Remedy,"
+1\. The pump delivers against an excessively high discharge pressure
+
+· Open discharge valve further until the duty point conditions have been attained (adjusted)
+
+2\. Excessively high back pressure
+
+· Fit an oversize impeller
+
+· Increase rotational speed (applies to turbine or I.C. engine driven pumps)
+
+3\. The pump and/or piping are incompletely vented or primed
+
+· Vent or prime the pump and system completely
+
+4\. Suction line or impeller clogged
+
+· Remove deposits in the pump and/or piping
+
+5\. Formation of air pockets in the piping
+
+· Alter piping layout
+
+· If necessary, fit a vent valve
+
+6\. NPSH available is too low (on positive suction head installations)
+
+· Check liquid level in suction vessel
+
+· Open isolating valve in suction line fully
+
+· Install a different suction line if necessary, if the friction losses in the suction line are excessive
+
+· Check suction line strained
+
+<figure>
+
+![](figures/17)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""10"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+7\. Excessively high suction lift
+
+· Clean out suction strained basket and suction piping
+
+· Check liquid level in the pit
+
+· Alter the suction line
+
+8\. Entrainment of air through the stuffing box
+
+· Sealing liquid passages are clogged; clean them out. If necessary, arrange a sealing liquid supply from an outside source, or increase sealing liquid pressure
+
+· Fit a new shaft seal
+
+9\. Reverse rotation
+
+· Change over two of the phase leads of the power supply cable
+
+10\. Rotational speed is too low
+
+· Increase rotational speed
+
+· Increase voltage of power supply
+
+11\. Excessive wear of the pump internals
+
+. Replace worn components by new ones
+
+12\. Pump back pressure is lower then specified in the purchase order
+
+· Adjust duty point accurately be means of the isolating valve in the discharge line
+
+· In case of persistent overloading, trim the impeller if necessary
+
+13\. Specific gravity or viscosity of the fluid pumped is higher then that specified in the purchase order
+
+14\. Gland cover tightened excessively or askew
+
+· Adjust the gland as required
+
+15\. Excessive rotational speed
+
+· Reduce speed (applies to turbine or I. C. engine driven pump)
+
+16\. N/A
+
+17\. Worn shaft seal
+
+· Check condition of shaft seal and renew it if necessary
+
+· Check flushing liquid or sealing liquid pressure
+
+18\. Grooving, score marks or roughness on shaft protecting sleeve surface
+
+· Fit a new shaft protecting sleeve
+
+19\. N/A
+
+20\. Gland cover or seal incorrectly tightened, wrong type of packing material used
+
+· Remedy the fault
+
+21\. The pump runs rough
+
+<figure>
+
+![](figures/18)
+
+<!-- FigureContent=""ALJAZARI - ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""11"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+· Correct the suction conditions
+
+· Check alignment of pumping set and realign if necessary
+
+· Re-balance the pump rotor dynamically
+
+· Increase the suction pressure at pump suction nozzle
+
+22\. Pumping set misaligned
+
+· Check piping connections and pump fixing bolts
+
+23\. The pump is warped
+
+· Check piping connections and pump fixing bolts
+
+24\. N/A
+
+25\. Too much or too little lubricant, or unsuitable lubricant quality
+
+· Top up lubricant, reduce quantity of lubricant , or change lubricant quality
+
+26\. The prescribed coupling gap has not been maintained
+
+· Restore correct coupling gap in accordance with the data on the foundation drawing
+
+27\. Operating voltage is too low
+
+28\. The motor is running on two phases only
+
+· Replace the defective fuses
+
+· Check the cable connections
+
+29\. The connecting bolts are slack
+
+· Tighten the bolts
+
+· Fit new gaskets
+
+30\. The rotor is out of balance
+
+. Clean the rotor
+
+· Re-balance the rotor dynamically
+
+31\. Defective bearings
+
+· Fit new bearings
+
+32\. Insufficient rate of flow
+
+· Increase the minimum rate of flow
+
+<figure>
+
+![](figures/19)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""12"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+2\. Vertical Turbine Pumps,"
+These pumps are commonly used in groundwater wells. These pumps are driven by a shaft rotated by a motor on the surface. The shaft turns the impellers within the pump housing while the water moves up the column. This type of pumping system is also called a line-shaft turbine. The rotating shaft in a line shaft turbine is actually housed within the column pipe that delivers the water to the surface.
+
+<figure>
+
+![](figures/20)
+
+<!-- FigureContent=""MOTOR SHAFT TURBINE PUMP"" -->
+
+</figure>
+
+
+Figure 3 Vertical Turbine Pump
+
+"
+2.1. General B-types vertical pump,"
+"
+2.1.1. Application,"
+B-Pumps are suitable for water supply schemes, irrigation schemes, lowering of ground water level and dewatering of mines, quarries, construction sites and sea water applications. These are particularly suitable for narrow bore holes. Minimum bore hole sizes required ranges from 150mm to 600mm.
+
+"
+2.1.2. Operating data,"
+|||
+| - | - |
+| Capacity | up to 2600 m3/hr |
+| Total head | up to 160 m |
+| Speed | up to 3500 RPM |
+| Temperature | up to 105°C |
+| Suspended Depth | up to 120 m |
+
+"
+2.1.3. Design Assembly Parts,"
+Main pump parts are the Pump Bowl Assembly, Column Pipe Assembly, and Discharge Head Assembly. Bowl Assembly consists of single or multistage radially split, interchangeable intermediate bowls. Column Pipe Assembly consists of interchangeable lengths of the column pipes and variable setting depth. Discharge head assembly consists of discharge head with packed stuffing zone/mechanical seal and thrust bearing arrangement (in case of solid shaft drive only).
+
+<figure>
+
+![](figures/21)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""13"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+2.1.4. Designation,"
+B 10 B/7
+
+Pump Series
+
+Minimum bore-hole, size (inches)
+
+Impeller Type, Series
+
+Number of Stages
+
+"
+2.2. Description of the Pump (Set),"
+"
+2.2.1. General description,"
+. Deep-well turbine pump with mixed flow impeller.
+
+· Electric motor or combustion engine.
+
+· Discharge nozzle arranged above or below floor and variant for dry installation.
+
+· Application: non-corrosive fluids, industry, water supply, fire-fighting systems, general industry, pressure boosting, irrigation
+
+· Single-stage or multistage hydraulic system
+
+Pump for use in water works, irrigation and drainage pumping systems, power stations and industrial water supply.
+
+"
+2.2.2. Designation,"
+Example: B 16 B/2 VN / V1
+
+Table: Key to the designation
+
+| Code | Description |
+| - | - |
+| B | Type Series |
+| 16 | Well diameter in inches (16 = 16"") |
+| B | Hydraulic system (B impeller) |
+| 2 | Number of stage of hydraulic system |
+
+<figure>
+
+![](figures/22)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/23)
+
+</figure>
+
+
+Figure 4 Vertical Turbine Pump
+
+<!-- PageNumber=""14"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+|||
+| - | - |
+| VN | Type of installation (VN=Discharge nozzle above floor) |
+| V1 | Type of derive (V1= direct derive by vertical electric motor) |
+
+"
+2.2.3. Name plate,"
+1
+
+2
+
+3
+
+4
+
+5
+
+<figure>
+
+![](figures/24)
+
+<!-- FigureContent=""KSB b. KSB Pumps Co. Ltd. DWT 2013 6 B 16 B/2 VN / V1 7 P-No. 9971312132 / 000100 8 Q 400 m3/h H 43 m n :unselected: 1450 1/min :selected: Mat .- No. ZN 3804 - H52×74"" -->
+
+</figure>
+
+
+"
+2.2.4. Name Plate Example,"
+|||||
+| - | - | - | - |
+| 1 | Pump type | 2 | Designation of the pump set |
+| 3 | Order number | 4 | Flow rate |
+| 5 | Speed | 6 | Year of supply |
+| 7 | Order item number | 8 | Head |
+
+"
+2.3. Design details,"
+2.3.1. Vertical Turbine Shaft Design
+
+<figure>
+
+![](figures/25)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<figure>
+
+![](figures/26)
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""15"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+· Vertical installation
+
+· Single-stage or multi-stage
+
+· Nominal diameter of the discharge nozzles: 80 mm to 500 mm
+
+· Hole diameter: 6"" to 24""
+
+"
+2.3.2. Pump Casing,"
+· Radially split relative to the shaft
+
+· Suction/discharge casing, 1 or more pump bowls
+
+· Replaceable casing wear rings
+
+<figure>
+
+![](figures/27)
+
+<!-- FigureContent=""Motor Discharge Head + Baseplate Enclosure Tube + Column Piping Lineshaft"" -->
+
+</figure>
+
+
+"
+2.3.3. Impeller,"
+· Single-entry mixed flow impeller, hydraulically unbalanced
+
+· Optionally with impeller wear rings
+
+· Axially locked in position on the shaft via locking and stage sleeves
+
+"
+2.3.4. Pump coupling,"
+· Connected via threaded, conical or split muff coupling
+
+· Torque transmission from pump shaft to impeller/coupling(s) via locking sleeve(s) or key(s)
+
+"
+2.3.5. Shaft seal,"
+· Gland packing
+
+· Mechanical seal
+
+· With or without shaft protecting sleeve
+
+"
+2.3.6. Shaft guide bearing,"
+· Medium-lubricated plain bearings
+
+. Pump shaft supported by bearing bush in each pump bowl
+
+(B series: additional support by bearing bushes in suction/discharge casing)
+
+· Intermediate shaft supported by bearing spiders in bearing bushes installed between column pipes
+
+<figure>
+
+![](figures/28)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""16"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+· Shaft protecting sleeves (stage sleeves) from size B14 in pump bowl and in all column pipe bearings
+
+"
+2.3.7. Thrust and radial bearing,"
+· Grease-packed rolling element bearings
+
+· Angular contact ball bearings in back-to-back arrangement
+
+· Uncooled
+
+"
+2.3.8. Direction of rotation,"
+The pump's direction of rotation is anti-clockwise, seen from the top shaft of the pump.
+
+"
+2.4. Configuration and function,"
+"
+2.4.1. Configuration,"
+Refer to general assembly drawing.
+
+"
+2.4.2. Design,"
+Pump and motor are connected by a coupling depending on the variant (see other applicable documents).
+
+The stage casings, column pipes and distributor casings are centered via flange connections and bolted together. If necessary, a suction strainer with or without foot valve may be installed upstream of the pump to protect the pump against coarse particles and foreign objects.
+
+"
+2.4.3. Function,"
+The fluid enters the suction casing via a suction strainer (if any) and flows to the suction impeller (connected to the rotating shaft) at a given pressure. In the impeller, the kinetic energy is imparted to the fluid handled and converted to pressure. The fluid flows from the impeller to the pump bowl where its pressure is further increased via further partial conversion of the kinetic energy.
+
+This procedure is repeated from one stage to the next with the effect that the pressure increases at each stage by the same amount, i.e. by the discharge pressure per stage. After the last pump bowl, the fluid flows through the discharge casing into the column pipe. The clearance gap at the casing wear ring prevents any fluid from flowing back from the stage casing into the suction area of the previous impeller.
+
+<figure>
+
+![](figures/29)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""17"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+2.4.4. Importance of Sealing in pump operation,"
+The pump is sealed by a shaft seal (mechanical seal or gland packing).
+
+"
+2.5. Commissioning/Startup/Shutdown,"
+"
+2.5.1. Prerequisite for commissioning/startup,"
+Before commissioning/starting up the pump set, make sure that the following conditions are met:
+
+. The pump set has been properly connected to the electric power supply and is equipped with all protection devices.
+
+· The pump has been flooded up to the specified minimum water level. (See general arrangement drawing).
+
+· The direction of rotation has been checked.
+
+· All auxiliary connections required are connected and operational.
+
+· The transport lock has been removed.
+
+· The lubricants have been checked and filled in.
+
+· After prolonged shutdown of the pump (set), the required activities have been carried out.
+
+· The coupling alignment has been checked.
+
+"
+2.5.2. Priming and venting pumps,"
+1\. Close all drains and drain lines.
+
+2\. Flood the pump and the suction line, if any, up to the minimum water level specified. For suction lift operation, evacuate the pump.
+
+3\. Fully open the shut-off element in the suction line.
+
+4\. If the discharge line is equipped with a check valve, the shut-off element in the discharge line may remain open as long as there is some back pressure. If this is not the case, the shut-off element in the discharge line must be closed.
+
+5\. Fully open all auxiliary connections (barrier fluid, flushing fluid etc.).
+
+If liquid is supplied from an external source, make sure the data indicated in the data sheet (pressure, flow rate, etc.) is observed.
+
+6\. Open the venting element/ensure proper venting. The shut-off element in the discharge line opens as flow starts (e.g. swing check valve) or is opened immediately before pump start-up (e.g. gate valve already slightly open when pump is started).
+
+<figure>
+
+![](figures/30)
+
+<!-- FigureContent=""ALJAZARI ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""18"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+2.5.3. Startup,"
+1\. Fully open the shut-off element in the suction head/suction lift line.
+
+2\. Close or slightly open the shut-off element in the discharge line.
+
+3\. Start up the motor.
+
+4\. Immediately after the pump has reached full rotational speed, slowly open the shut-off element in the discharge line and adjust it to comply with the duty point.
+
+"
+2.6. Checking Shaft Seal,"
+"
+2.6.1. Mechanical Seal,"
+The mechanical seal only leaks slightly or invisibly (as vapour) during operation. Mechanical seals are maintenance-free.
+
+"
+2.6.2. Gland Packing,"
+The gland packing must drip slightly during operation. (approx. 20 drops per minute)
+
+The minimum leakage required depends on the fluid handled, pressure, sliding velocity and temperature. See data sheet for the leakage rates at the gland packing.
+
+"
+2.6.3. Adjusting the leakage,"
+"
+2.6.3.1. Prior to starting,"
+1\. Only lightly tighten the nuts of the gland follower by hand.
+
+2\. Use a feeler gauge to verify the gland follower is mounted centrally at right angle to the shaft.
+
+The gland must leak after the pump has been primed. (Only applies to pumps with suction lift line and the respective excess inlet pressure.)
+
+"
+2.6.3.2. After five minutes of operation,"
+The leakage can be reduced.
+
+1\. Tighten the nuts of the gland follower by 1/6 turn.
+
+2\. Monitor the leakage for another five minutes. Excessive leakage:
+
+2.6.3.3. Excessive leakage
+
+<figure>
+
+![](figures/31)
+
+<!-- FigureContent=""ALJAZARI - ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""19"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+Repeat steps 1 and 2 until the minimum value has been reached.
+
+"
+2.6.3.4. Not enough leakage:,"
+Slightly loosen the nuts at the gland follower.
+
+2.6.3.5. No leakage:
+
+Switch off the pump set immediately!
+
+Loosen the gland follower and repeat start-up.
+
+"
+2.6.3.6. Checking for leakage,"
+After the leakage has been adjusted, monitor the leakage for about two hours at maximum fluid temperature.
+
+Check that enough leakage occurs at the gland seal at minimum fluid pressure.
+
+"
+2.6.4. Shutdown,"
+1\. Close the shut-off element in the discharge line slowly.
+
+2\. Switch off the motor immediately after closing the shut-off element and make sure the pump runs down smoothly to a standstill.
+
+"
+2.6.4.1. For prolonged shutdown periods:,"
+1\. Close the shut-off element in the suction line, if any.
+
+2\. Close the auxiliary connections.
+
+2.7. Operating Limits
+
+"
+2.7.1. Maximum operating pressure,"
+The maximum operating pressure depends on the pump size, pump material and nominal pressure of the flange design. Neither the material / size dependent maximum pressure nor the maximum nominal pressure of the flange must be exceeded. Maximum operating pressure: see data sheet.
+
+"
+2.7.2. Temperature of the fluid handled,"
+If the values are not indicated in the data sheet, the following temperature limits apply. The temperatures must neither be below nor above these limits.
+
+<figure>
+
+![](figures/32)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""20"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+Table: Temperature limits of the fluid handled
+
+|||
+| - | - |
+| Minimum fluid temperature | 0°C |
+| Maximum fluid temperature | + 60 °℃ |
+
+"
+2.7.3. Abrasive fluid/solid,"
+Do not exceed the maximum permissible solid content limit specified in the data sheet. When pump handles fluid containing abrasive substance, increased wear of the hydraulic system and the shaft seal are to be expected. In this case, reduce the maintenance interval.
+
+"
+2.8. Maintenance/Inspection,"
+"
+2.8.1. Supervision of operation,"
+While the pump is in operation, observe and check the following:
+
+· The pump must run quietly and free from vibrations at all times.
+
+. In case of oil lubrication, ensure the oil level is correct.
+
+· Check the shaft seal.
+
+· Check the static seals for leakage.
+
+. Check the rolling element bearings for running noises. Vibrations, noise and an increase in current input occurring during unchanged operating conditions indicate wear.
+
+· Monitor the correct functioning of any auxiliary connections.
+
+· Monitor the stand-by pump. To make sure that the stand-by pumps are ready for operation, start them once a month.
+
+· Monitor the bearing temperature.
+
+· Check the flexible or torsion-resistant elements of the coupling/Cardan shaft and replace if necessary.
+
+· Check any pressure gauges.
+
+· Check the drive as described in the manufacturer's product literature.
+
+· Check that the fitted coupling guard make sure it doesn't interfere with the coupling.
+
+· Make sure that the earth connection is fitted and marked.
+
+· Cooling system (if any)
+
+<figure>
+
+![](figures/33)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""21"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+Take the pump out of service at least once a year to thoroughly service the cooling system.
+
+"
+2.8.2. Routine maintenance and inspection intervals,"
+"
+(Please revise the following table),"
+| Interval | Number of persons | Time (?) | Maintenance job | |
+| - | - | - | - | - |
+| Daily | 1 | 6 min. | . Check shaft seal leakage. 
+|| || 1 | 6 min. | . Check the oil level and top up the oil, if required (only for oil- lubricated bearings) ||
+| Weekly | 1 | 15 min. | · Check pump operation (inlet pressure, head, bearing temperature, noise and vibrations). 
+|| || 1 | 15 min. | . Check torsional play/condition of the coupling/Cardan shaft (see operating manual for the coupling/Cardan shaft). 
+|| || 1 | 15 min. | · Switch to a stand-by pump, if any, or carry out a functional check run (5 minutes). 
+|| || 1 | 15 min. | · Re-lubricate grease-packed rolling element bearings, re- lubrication quantity see data sheet 
+|| || 1 | 15 min. | · Check oil-lubricated rolling element bearings | |
+| Every 4 years or if discharge head drop. | 2 | | . Generally inspect and overhaul the pump in accordance with the operating instructions. · Check and replace, if necessary: V Bearings, casing wear ring, impeller wear ring, shaft protecting sleeve v Impeller and shaft V Fit new seals and gaskets. :selected: :selected: :selected: | |
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/35)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<figure>
+
+![](figures/34)
+
+</figure>
+
+
+<!-- PageNumber=""22"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+| 2.9. | Vertical turbine pump troubleshooting |
+| - | - |
+| A. Pump pressure is too low ||
+|| B. Excessive pump discharge pressure  |
+|| C. Excessive flow rate  |
+|| D. Pump delivers insufficient flow rate  |
+|| E. Excessive power consumption  |
+|| F. Pump is running but does not deliver  |
+|| G. Pump stops during operation  |
+|| H. Vibrations and noise during pump operation  |
+|| I. Impermissible rise of temperature inside the pump  |
+|| J. Excessive bearing temperature  |
+| K. Excessive leakage at the shaft seal ||
+| L. Motor is overloaded ||
+| M. Leakage at the pump ||
+
+<figure>
+
+![](figures/36)
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/37)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageNumber=""23"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+| ||||||||||||||||
+| | | | | | | | | | | | | | | | Remedy19 |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| | | | | | | | | | | | :unselected: | :unselected: | :unselected: | Operating point & does not match the Q and H performanm data calculated In ecanta. | . Re-adjust to duty point (ag. dosdiopen shut-off clement accordingk). |
+|| | | | :selected: | | :selected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | | Pump or piping are not completely Wanted. | · Vent pump. |
+| | | | | :selected: | | | | :selected: | :selected: | | | | | Inlet line or Impaler dogged  :unselected: :unselected:| Con the Impeller. : Check system for Impurities. · Remove deposits in pump andrer plaing. |
+|||||||||||||||| · Check any strainers installed/ = suction opening. |
+| | r| :unselected:  :selected: | :selected: | :selected: | | :unselected: | :selected: | :selected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | Formation of air pockets in the Piping | . Fit venting device. Alter piping larout. || :selected: 
+| | | | | :selected: | | | :selected: | | | | | | NSPH ara abiawater level too low. | . Check operating mode. :unselected: "" Ingrese back pressure by throttling. |
+|||||||||||||||| Correct suction conditions. : Ingresso suction head. :selected: |
+|||||||||||||||| : Install pump at a lower level. : Fully open the shut off clement In the Inlet line, If any. Alter the inlet lina If piping losses are too high, If am'. :selected: :unselected: |
+| ||||||||||||||||
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/39)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<figure>
+
+![](figures/38)
+
+</figure>
+
+
+<!-- PageNumber=""24"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+| | :selected: | :selected: C | :unselected: | | | | | | HIJKLM | | | | Possible count | Kamery19 |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| | | | | | | | | | | :selected: | | :unselected: | Shaft seal womscore marks of roughness on shaft protecting | . Check flushing liquidbarrier fluid pressure. |
+||||||| | | | | | | | | . Clean barrier fluid, supply external barrier fluid, if neossary, or Increase border fluid pressure. - Fit new shaft sesl. |
+|||||||| | | | | | | | · Replace wom components by \`new ones. |
+|||||||||||| | | | · Replace shaft protecting sloare. |
+| r | | | :selected: | | | | :selected: | | | | | | Unfavourable flow to pump suction nozzle | . Check the Inflow conditions of the Intake reservoir and Intake chamber. |
+||||||||||||||| · Check whether pipe routing results In swirling or Irregular flow (e.g. downstream of elbowl and correct, If necessary: |
+| | | | | | | | | | :unselected: | | | | Gland follower, coal cover excessively tightened or tightened askov, Incorrect packing material. | Correct. · Replace. . Correct. |
+||||||||||||||| · Replace gland packing. - Replace wom components by now ones. |
+| | | | | | | | | | | | | | Lack of cooling liquid or dirty :unselected: tooling chamber. | · Chack flushing liquidbarrier fluid pressure. |
+||||||||||||||| . Clean barrier fluid, supply extemal barrier fluid, If necessary, or Increase barrier fluid pressure. |
+||||||||||||||| "" Ingresso cooling liquid quantity. |
+||||||||||||||| · Clean coolant/cooling chamber. |
+| | | | | | | | | | r | | | :unselected: | Pump is warped or sympathetic vibrations in the piping- | · Re-align pumpidrie. · Chock piping connections and secure fixing of pump; Improve fixing of piping, if necessary. |
+||||||||||||||| · Fax pipelines using anti- vibration material. |
+| | | | | :unselected: | | | | | :unselected: | | | :unselected: | Increased antal thrust | Check duty pointpump selection. | :unselected: :unselected: :unselected:
+||||||||||||||| Check operating mode. . Check suction side flow conditions. || :selected: 
+| :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | r | :unselected: | :unselected: | :unselected: | Insufident or excessive quantity of lubricant or unsuitable lubricant | Clean the bearings. :unselected: Top up, reduce or change lubricant. |
+| :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: :unselected: | :unselected: | :unselected: :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | Non-compliance with specified coupling distance | · Correct distance in accordance :unselected: with the general arrangement drawing. |
+
+<figure>
+
+![](figures/40)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""25"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+| | | | || | || | | AICDEF GHI JKLM   | | | Possible cou | |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| :unselected: | :unselected: | :unselected: | | | :unselected: :unselected: | :unselected: | :unselected: | | :unselected: | :unselected: | :selected: :unselected: | :unselected: :unselected: | Motor Is running on 2 phases only- | Replace defective fuses: Check electrical connectlora. \`\`Check switchgear. |
+| :unselected: | :unselected: | | | | | | :unselected: | | | :unselected: | :unselected: | :unselected: | Rotor out of balance | Clean the roto . · Check run-out; re-align, ff necessary. Ro balance the rotor. . |
+| :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :selected: | :unselected: | r :selected: | :selected: | :unselected: | :unselected: | Defective bearingsl | · Replace. |
+| | | | | | | | :selected: | :selected: | | | | :unselected: | Flow rate's too low. | Re-adjust to duty point. · Fully open shut off elament in :unselected: suctioninlet lina. |
+||||||||||||||| : Fully open shut off alament in discharge line. |
+||||||||||||||| · Re calculate or measure hydraulic lossas Har |
+| :unselected: | | | | | | | :unselected: | | :unselected: | :unselected: | | :unselected: | In star della operation, motor stids at star stage | Check electrical connections\_ Check switchgear. |
+||||||||||||||| .... · Close or only slightly open the shut off element In the discharge line during start-up. |
+| :unselected: | :unselected: | :unselected: | r | :selected: | :unselected: | :unselected: | :unselected: | | :unselected: | :unselected: | :unselected: | :unselected: | Impermissible air or gas content in fluld handled | : Check suction line for leakage, soal if necessary- |
+||||||||||||||| · Replace defective parts: |
+| | | | r | | | | | | :unselected: | | | :unselected: | Alr Intake at pump inlet leg. air- entraining vorticesk | · Check Intake arca for air- entraining vertices. |
+||||||||||||||| · Correct suction conditlors. |
+||||||||||||||| · Reduce flow velocity at suction line Inlet. |
+||||||||||||||| · Increase suction head. |
+| | | | | | | | :selected: | | | | | :unselected: | Cavitation (rattling noise) | Correct suction conditions. · Check operating mode. "" Increase suction head. ""Irstall pump at a lower level. . || :selected: | :selected: 
+| | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | Foundation not rigid enough. | Check Comect. . |
+| :selected: | | | :selected: | :selected:| :selected: | :selected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected:  :unselected: | Impermissible single-pumpparallel operation\_ | "" Re adjust to duty point .. Alter system conditions. . Adjust pump characteristic H. || :selected: 
+| | | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :selected: | :unselected: | :unselected: | :unselected: | :unselected: | Shaft is out of true. | Replace. . || | | :selected: | :selected: | | :selected: 
+| | | | | :selected: | :selected: | | Impeller rubs against casing components | . Check rotor. Check Impeller position. :selected: · Verify that piping has been connected without transmitting any stressas ar strains. || :selected: 
+| :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | Operating voltage is too low. | "" Increase the operating voltage. || :selected: 
+| :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | Excessiva surface pressure in the mechanical seel's sealing clearance lack of lubricanticirculation liquid  :unselected:| Check Irstallation dimensions. 15 |
+
+<figure>
+
+![](figures/41)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""26"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+3\. Submersible Pumps,"
+Submersible pumps may be operated manually with a switch located above ground level or automatically with a pressure switch, electrodes or float control devices. Submersible pumps should always be operated below the water level. The pump should be installed at higher level than the well screen to prevent pump fluid suction break which leads to burnt motor.
+
+<figure>
+
+![](figures/42)
+
+<!-- FigureContent=""SUBMERSIBLE PUMP & MOTOR"" -->
+
+</figure>
+
+
+Figure 5 Submersible Pump
+
+"
+3.1. General Description,"
+"
+3.1.1. Name Plate,"
+|||||
+| - | - | - | - |
+| ||||
+| KSB KSB Aktiengesellschaft 67227 Frankenthal ||| CE |
+| Series No. 99720202635-000100-01 ||| 2013 |
+| MEI ≥ 0.70 n --.- % || Mat. No. ||
+| Pump || UPA 150C - 16 / 16 ||
+| Q | 6.92 m3/h | H | 171.00 m |
+| Q :unselected: | 21.77 m3/h | H | 103.00 m |
+| Q | 18.5 m3/h | H | 125.25 m |
+| Motor | 3\~ UMA-S 150E 37/22 |||
+| 37 kW | 100 Hz | | VFD |
+| 400 V :selected: | 72 A | | 0.99 cos phi |
+| Weight | 272 kg | | |
+| Temp. | 20 ℃ max. | | 3,000 rpm |
+| Min. flow velocity past the motor = 0.2 m/s ||||
+| U = 338 V @ 3000 rpm ||||
+| | EN 60034-1 || IP 68 |
+| Mat No .: 01 000 854 ||| ZN 3823 - D 88 |
+
+<figure>
+
+![](figures/43)
+
+<!-- FigureContent=""1 16 2 17 3 4 18 5 19 6 20 7 8 9 21 10 22 11 23 12 24 13 25 14 15 26"" -->
+
+</figure>
+
+
+"
+3.1.2. Name Plate (Example),"
+<figure>
+
+![](figures/44)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""27"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+| | 1 | Order number | 2 | Minimum efficiency index |
+|| 3 | Pump designation | 4 | Efficiency (see data sheet) |
+|| 5 | Minimum flow rate | 6 | Maximum flow rate |
+|| 7 | Flow rate at duty point | 8 | Motor designation |
+|| 9 | Rated power | 10 | Voltage |
+|| 11 | Frequency | 12 | Weight |
+|| 13 | Maximum fluid temperature | 14 | Minimum available flow velocity past the motor |
+|| 15 | Magnet wheel voltage5) | 16 | Year of construction |
+|| 17 | Material number | 18 | Maximum head |
+|| 19 | Minimum head | 20 | Head at duty point |
+|| 21 | Configuration / starting method of the motor | 22 | Power factor |
+|| 23 | Amperage | 24 | Speed |
+|| 25 | VDE Standard | 26 | Motor enclosure |
+
+"
+3.2. Design details,"
+"
+3.2.1. Design,"
+· Centrifugal pump
+
+· Single-stage or multi-stage
+
+· Radial or mixed flow versions
+
+· Single-entry
+
+· Ring-section design
+
+· Rigid connection between pump and motor Connections
+
+"
+3.2.2. Connection,"
+· Pump end screw-ended or flanged
+
+· With lift check valve or connection branch Impeller type
+
+3.2.3. Impeller type
+
+. Mixed flow hydraulic system with trim-able impellers Type of installation
+
+3.2.4. Type of installation
+
+· Vertical installation
+
+· Horizontal installation
+
+<figure>
+
+![](figures/45)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""28"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+3.2.5. Drive,"
+· Three-phase asynchronous motor
+
+· Interior (buried) permanent magnet synchronous motor (IPMSM)
+
+· Motor shaft protected by sealed sleeve coupling Shaft seal
+
+"
+3.2.6. Shaft Seal,"
+· Mechanical seal
+
+"
+3.2.7. Bearings,"
+· Radial plain bearings
+
+· Pump bearings lubricated by fluid handled; motor bearings lubricated by water fill
+
+· Axial thrust is balanced by a tilting-pad thrust bearing in the motor (lower end)
+
+"
+3.3. Configuration and function,"
+"
+3.3.1. Design,"
+Pump and motor are connected by a rigid coupling. The stage casings are connected by means of studs. A suction strainer at the suction casing protects the pump from coarse particles in the fluid. The pump is connected to the piping via a lift check valve or connection branch with either internal thread or flanged end (optional).
+
+"
+3.3.2. Function,"
+The fluid flows along the motor and enters the suction casing (2) through the suction strainer (1). It is accelerated outward by the suction impeller (3). In the flow passage of the stage casing (4) the kinetic energy of the fluid is converted into pressure energy, and the fluid is routed to the next impeller
+
+<figure>
+
+![](figures/46)
+
+<!-- FigureContent=""6/7 5 4 3 2 1 Figure 6 Cross Sectional drawing"" -->
+
+</figure>
+
+
+(5). This process is repeated in all stages until the fluid has passed the last impeller (5). It is then guided through the integrated lift check valve (6) to the connection branch (7), where it leaves the pump. The integrated lift check valve prevents uncontrolled backflow of the fluid.
+
+<figure>
+
+![](figures/47)
+
+<!-- FigureContent=""ALJAZARI - ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""29"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+3.4. Commissioning/start-up,"
+"
+3.4.1. Start-up,"
+When commissioning pump in new borehole, initially only operate the pump for approximately 10 minutes with the shut-off element slightly open.
+
+Check escaping water for any sand content.
+
+. If the sand content equals 50 g/m3 or more, switch off the pump set and inform the well building company.
+
+. If the sand content decreases, slowly open the shut-off element until the duty point is reached.
+
+"
+3.4.2. Checking the direction of rotation,"
+1\. Switch on the motor at the control cabinet.
+
+2\. As soon as the system reaches a steady state, note down the pressure and/or flow rate from the pressure gauges.
+
+3\. Verify the data against the name plate data.
+
+. If the values are almost identical, the direction of rotation is correct.
+
+. If the values are too low, the direction of rotation is incorrect.
+
+4\. If the direction of rotation is incorrect, switch off the motor from control cabinet.
+
+5\. Have a trained electrician correct the phase sequence (U, V, W) on the motor connection side in the control cabinet or, in case of frequency inverter operation, change the direction of rotation by adjusting the parameters.
+
+"
+3.5. Operating limits,"
+"
+3.5.1. Frequency of starts,"
+To prevent inadmissible heat build-up in the motor, the following max. number of start-ups or minimum standstill periods must be complied
+
+"
+3.5.2. Supply voltage,"
+Observe the permissible voltage and frequency fluctuations to; UN ± 5 %, fN ± 2 %. The limits may differ if specified in the order, see order confirmation.
+
+"
+3.5.3. Immersion depth,"
+Do not exceed the maximum immersion depth of 250 m.
+
+For submergence or larger immersion depths refer to the data sheet or the order documentation.
+
+<figure>
+
+![](figures/48)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""30"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+3.6. Trouble-shooting,"
+If problems occurs which are not described in the following table, consultation with the KSB customer service is required.
+
+A. Pump is running but does not deliver
+
+B. Pump delivers insufficient flow rate
+
+C. Insufficient discharge head
+
+D. Vibrations and noise during pump operation
+
+E. Unit tripped by overcurrent relay
+
+F. Fuses have blown
+
+G. Pump set cannot be started up
+
+H. Pump set cannot be switched off
+
+| A - - - - - :unselected: - ✘ ✘ ✘ :unselected: ✘ - ✘ - - - :unselected: - - - - :selected: :selected: :selected: :selected: :selected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: | B | | CDE | | F | G | H | Possible cause | Remedy24) |
+|| ✘ :selected: | - :unselected: | - :unselected: | - | - | - | - | Pump delivers against an excessively high pressure. | Open the shut-off valve to re-adjust to duty point. |
+|| - :unselected: | ✘ :selected: | - :unselected: | - :unselected: | - :unselected: | - | - | Pump delivers against an excessively low discharge pressure. | Close the shut-off valve to re-adjust to duty point. |
+|| - :unselected: | ✘ :selected: | ✘ :selected: | - :unselected: | - :unselected: | - :unselected: | - | Deposits in the impellers | Remove deposits. |
+|| ✘ :selected: | ✘ :selected: | - :unselected: | - :unselected: | - :unselected: | - :unselected: | - :unselected: | Wrong direction of rotation (three- phase units) | Interchange two of the phases of the power cable. |
+|| ✘ :selected: | ✘ :selected: | - :unselected: | - :unselected: | - :unselected: | - :unselected: | - | Wear of internal components | Replace worn components by new ones. Contact KSB. |
+|| ✘ :selected: | - | - | ✘ :selected: | - :unselected: | - | - | Motor is running on 2 phases only. | Replace defective fuse. Check cable |
+|| - :unselected: | - | - | - | - :unselected: | ✘ :selected: | - | No power supply | Check electrical installation. Inform electric utility |
+|| - :unselected: | - | - | ✘ :selected: | - :unselected: | - :unselected: | - | Pump clogged by sand | Clean suction casing, impellers, stage casings and lift check valve. Contact KSB. |
+|| - :unselected: | - :unselected: | - :unselected: | ✘ :selected: | ✘ :selected: | ✘ :selected: | - :selected: | Motor winding or power cable are defective. | Contact KSB. |
+|| ✘ :selected: | ✘ :selected: | - :unselected: | - | - :unselected: | - :unselected: | - | Defective or clogged riser pipe (pipe and sealing elements) | Replace defective riser pipes. Replace sealing |
+|| ✘ :selected: | - :unselected: | - :unselected: | - :unselected: | - :unselected: | - :unselected: | - | Water level lowered too much during operation | Contact KSB. |
+|| - :unselected: | ✘ :selected: | ✘ :selected: | - | - | - | - | Impermissible air/gas content in the fluid handled | Contact KSB. |
+|| - :unselected: | - :unselected: | ✘ :selected: | - :unselected: | - | - :selected: | - | Mechanical defect of pump or motor | Contact KSB. |
+|| - | - :unselected: | ✘ :selected: | - :unselected: | - | - | - | System-induced vibrations | Contact KSB. |
+|| ✘ :selected: | - :unselected: | ✘ :selected: | - | - :unselected: | - :unselected: | - | NPSHavailable (positive suction head) is too low. | Submerge pump deeper. |
+|| ✘ :selected: | ✘ :selected: | - :unselected: | - :unselected: | - :unselected: | - :unselected: | - :unselected: | Speed is too low. | Check voltage and increase, if necessary. Contact KSB. |
+|| - :unselected: | - :unselected: | - :unselected: | - :unselected: | ✘ :selected: | - :unselected: | - | Wrong fuse size | Fit correct fuse size. |
+|| - :unselected: | - :unselected: | - :unselected: | ✘ :selected: | - :unselected: | ✘ :selected: | X :selected: | Defective overcurrent relay | Check and replace, ifnecessary. |
+|| - | - | - | ✘ :selected: | - :unselected: | - | - | Motor winding not suitable for operating voltage available | Replace the pump set. Contact KSB. |
+
+<figure>
+
+![](figures/49)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""31"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+|||
+| - | - |
+| 3.7. | Inspection/Service |
+| The submersible borehole pumps are generally maintenance-free. In order to detect indications of potential damage at an early stage, regular checks are required. Possible indications of potential damage: ||
+| · Temperature rise in the fluid handled ||
+| · Increased sand content of the fluid handled ||
+| · Change in current consumption ||
+| · Change in discharge head / flow rate ||
+| · Change in rpm at startup ||
+| · Increase in noise and vibration levels ||
+| The submersible borehole pump need not be removed from the well/tank regularly for inspection. For any queries and repeat orders, particularly when ordering spare parts, specify the following information given on the name plate: ||
+| · Pump and/or motor type series and size ||
+| · Operating data ||
+| · Order number and/or material number ||
+| For information concerning repair jobs and spare parts please contact your nearest KSB service center. ||
+
+<figure>
+
+![](figures/50)
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/51)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageNumber=""32"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+3.8. Difference between Verticals Turbine Pump and Submersible Pump,"
+<figure>
+
+![](figures/52)
+
+<!-- FigureContent=""SUBMERSIBLE PUMP MOTOR PIPE SECTIONS SHAFT NO SHAFT WATER TABLE LEVEL DRAW DOWN + 12 Mins Planning figure of 15 ft CABLE TURBINE MOTOR SUBMERSIBLE"" -->
+
+</figure>
+
+
+Figure 7 Difference between Vertical Turbine Shaft and Submersible Pump
+
+<figure>
+
+![](figures/53)
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/54)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+ :selected: :unselected: :unselected: :unselected:
+<!-- PageNumber=""33"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+4\. Pumps performance and their issues during operation and maintenance,"
+"
+4.1. Pump characteristic curve,"
+The pump characteristic curve shows the performance of a pump. It usually shows total dynamic head (TDH), power, efficiency and NPSHR plotted over flow rate at a given RPM. There are absolute or dimensional and relative or non - dimensional plots (fig.). The difference is that a dimensional diagram shows absolute values, while a non - dimensional plot shows the data in percent of their values at the pumps best efficiency point (BEP). The first line in the diagram shows the pumps TDH plotted over flow rate. Characteristic is the slightly decreasing TDH at increasing flow rate. The efficiency graph is typically increasing until it reaches its peak at the pumps BEP and drops as flow rate is further increasing. The bhp line is more or less a straight line as it increases with increasing flow rate. It is also possible to plot these functions for several speeds at a given diameter or at different diameters for a given speed in one diagram. Result is a set of pump characteristic curves as provided by most manufactures. In these diagrams you can estimate pump behavior at constant speeds and a range of impeller diameters. Constant horse power, efficiency, and NPSHR lines are plotted over the various head curves. The pump characteristic curve shown in fig.12 is an example for what information you can get out of such a diagram. In this example, we assume that we have this pump with an impeller diameter of 7"" operating at 3540RPM and a flow rate of 48m3/h. Therefore we can read from the diagram the pump's current efficiency, head, required power as well as the NPSHR. In this case, our operating point is almost the pump's BEP and we get TDH of 60m, an efficiency of about 61%, required power of 13Hp and a NPSHR of 9ft.
+
+<figure>
+
+![](figures/55)
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/56)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageNumber=""34"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+<figure>
+
+![](figures/57)
+
+<!-- FigureContent=""Goulds Pumps ITT Industries CENTRIFUGAL PUMP CHARACTERISTICS RPM 3540 CDS:2102-4 NPSHRI 4 Model: 3196/HT3196 325 40 Size: 1.5X3-8 50 55 10' Imp. Dwg. 76780 300 8 12 Pattern 56091 162 61% Eye Area: 4.43 in2 90 275 DUCTILE IRON CONSTRUCTION 7.5 .80 TOTAL HEAD (feet) ₹ 250 7+ 225 -70 200 6.5' 55 60 175 6 25Hp 50 150 5.55 -20Hp 125 15 .40 100 X50 15Hp £13Hp - 30 75 10Hp 7.5Hp 20 50 CAPACITY 50 100 150 200 250 300 350 400 GPM 0 0 10 20 30 38 50 60 70 80 90 m3/h"" -->
+
+<figcaption>
+
+Figure 8 Centrifugal Pump Curve
+
+</figcaption>
+
+</figure>
+
+
+"
+4.2. Pump Selection,"
+Double check with repect to design manual
+
+A pump consists of the following basic elements:
+
+· Bowl Assembly
+
+· Motor
+
+· Cable
+
+. Drop Pipe
+
+· Surface Plate (with)(without) discharge elbow 4.2.1. Data Required For Selection
+
+· Capacity in GPM
+
+. Static and Pumping Levels in Well
+
+· Setting Required (drop pipe)
+
+<figure>
+
+![](figures/58)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+:selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :unselected: :unselected: :selected: :selected: :selected: :selected: :unselected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :unselected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected: :selected:
+<!-- PageNumber=""35"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+· Well I.D. Diameter
+
+· Energy requirement
+
+· System pressure required
+
+4.2.2. Determination of Total Head
+
+Total head = H + P + F where:
+
+H = Distance from surface to water level when pumping P = Pressure (head) at pump discharge
+
+F = Drop pipe friction (+) check valve(s) loss
+
+"
+4.2.3. Bowl Assembly Selection,"
+Select impeller in exactly the same manner as for line shaft type pump. Note comments under Well Size.
+
+"
+4.2.4. Drop Pipe Selection,"
+Size of drop pipe is selected based on the capacity to be pumped. Submersible pumps frequently require smaller drop pipe than do line shaft pumps since the full area of the pipe is used to deliver water to the surface.
+
+Minimum velocity in drop pipe should not be less than 3.5Ft./Sec.
+
+We recommend drop pipe size be selected to limit the maximum friction loss to 5' per 100' of pipe. Selection table is based upon this limitation. Smaller size drop pipe may be used when bowl assembly and motor are adequate for operation with the increased head and horsepower. Pipe furnished by others must be standard pipe with 3/4 taper NPT threading throughout and to connect to the bowl assembly and surface plate.
+
+"
+4.2.5. Check Valves,"
+Where total head exceeds 200', the use of a drop pipe check valve is recommended. Check valve should be located approximately 20' above the bowl assembly. For settings over 600', the use of two check valves are recommended, with the first valve approximately 100' above bowl unit and the second located approximately 60% of the distance between the first valve and the surface plate.
+
+"
+4.2.6. Cable Selection,"
+<figure>
+
+![](figures/59)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""36"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+Select a drop cable designed for use in water. The insulation on the conductors should be RW, RUW, TW, or their equivalent. DO NOT compromise on drop cable quality. Paying a little more will save you money in the long run. Cable selection chart is based on horsepower, voltage, and length of cable required. Cable sizes and lengths are maximum allowable. Higher operating efficiency will be obtained by using the next larger cable size when lengths approach listed limits. All size and cable lengths shown are for copper wire only.
+
+Note: Use of smaller cable than recommended will void warranty.
+
+Select cable length equal to length of setting plus an additional 10' or more to connect to starter at the surface, plus 1 additional foot for each 50' of length in the well to compensate for unavoidable slack in the installation.
+
+"
+4.2.7. Surface Plate,"
+Surface place consists of flat steel plate with connection for drop pipe, hole for entrance of cable, vent hole, hole for air line or water level gauge. Surface plate is supplied (with)(without) elbow. If elbow is furnished, it can be flanged or female thread. Surface plate is selected to match drop pipe size.
+
+"
+4.2.8. Motor Selection,"
+Motor selection is based upon horsepower required, pump RPM, thrust load, well diameter, and power supply. Also, see comments under WELL SIZE and WATER TEMPERATURE.
+
+"
+4.2.9. Starting Equipment,"
+Selecting the proper overload protection is one of the most important factors in obtaining a successful submersible installation. Submersible motor starters should provide the following:
+
+· Positive motor protection against single phasing.
+
+· Positive motor protection against sustained overload in excess of 115% of motor rating.
+
+· Motor protection if rotor is stalled.
+
+· Tripping timers independent of ambient temperature; (Ambient Compensated Quick Trip Heaters).
+
+Note: Failure to provide quick trip overload heaters will void warranty.
+
+<figure>
+
+![](figures/60)
+
+<!-- FigureContent=""ALJAZARI - ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<!-- PageNumber=""37"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+Also, note that under certain conditions of maximum load on the motor (use of the 1.15 service factor), a starter one size larger may be required.
+
+"
+4.2.10. Lightning Protection,"
+Lightning and power surge damage are major causes of submersible motor failures, so a three- phase lightning arrestor is a must. The arrestor is mounted in the pump panel and grounded to both ground terminals onto pump panel and well head. If you use plastic pipe, the ground wire should also be connected to a stud on the motor to obtain good grounding and maximum benefit from the arrestor.
+
+Warning: Failure to ground this unit may result in serious electrical shock. A faulty motor or wiring can be a serious electrical shock hazard if it is accessible to human contact. To avoid this danger, connect the motor frame to the power supply grounding terminal with copper conductor no smaller than the circuit conductors.
+
+<figure>
+
+![](figures/61)
+
+</figure>
+
+
+<!-- PageFooter=""Module 1: Pumps, Induction Motors and Valves"" -->
+
+<figure>
+
+![](figures/62)
+
+<!-- FigureContent=""ALJAZARI -ACADEMY"" -->
+
+</figure>
+
+
+<!-- PageNumber=""38"" -->
+
+<!-- PageHeader=""Operations and Maintenance of Mechanical and Electrical Equipment-WSD 5231"" -->
+
+"
+References,"
+1\. B-Pump installation/operating manual by KSB Pump. For vertical turbine shaft pump.
+
+2\. Selection criteria of pump, National Pump company manual
+
+3\. Submersible borehole pump, UPA with Motors up to 1000 V Operating Voltage 50 Hz, 60 Hz Installation/Operating Manual by KSB Pump.
+
+4\. Non-Clogging Centrifugal Pumps of process type construction standard bearing arrangement, casing construction 1 and 2 up to bearing bracket P65/160x operating instruction by KSB KWP.
+
+<figure>
+
+![](figures/63)
+
+</figure>
+
+
+<!-- PageNumber=""ALL"" -->
+"
